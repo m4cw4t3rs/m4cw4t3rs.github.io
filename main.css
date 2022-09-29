@@ -1,0 +1,168 @@
+body{
+	font-family: 'Courier New';
+	text-align: center;
+	
+}
+
+
+h1{
+	font-size: 32px;
+	font-family: 'Courier New';
+	color: #FF1F1F;
+}
+
+h1:hover{
+	color: #C256FF;
+}
+
+.bio_img{
+	display: inline;
+
+}
+
+img{
+	border: 2px solid #411FFF;
+	float: left;
+	height: 308px
+}
+
+img:hover{
+	border: 2px solid #FF9C1F;
+
+}
+
+.bio_img p{
+	font-size: 14.5px;
+	font-family: 'Courier New';
+	text-align: justify;
+	border: 2px solid #FF1F1F;
+	margin-left: 485px;
+	padding: 10px;
+}
+
+p:hover{
+	border: 2px solid #C256FF;
+}
+
+.homepage{
+	font-family: 'Courier New';
+	background-image: url("https://i.postimg.cc/pV855D36/professor-is-here.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+}
+
+
+h2{
+	font-family: 'Courier New';
+	color: #FFE71F;
+}
+
+h2:hover{
+	color: #27E900;
+}
+
+.nav{
+	font-family: 'Courier New';
+	font-size: .75rem
+}
+
+h3{
+	font-family: 'Old London';
+	font-size: 120px;
+	text-align: center;
+	color: #FF1F1F;
+	letter-spacing: 40px;
+	padding: 50px;
+	margin-top: 20px;
+	margin-left: 60px;
+}
+
+h3:hover{
+	color: #FFE71F;
+}
+h4{
+	font-family: 'Courier New';
+	font-size: 12px;
+	text-align: right;
+	float: right;
+	border: 2px solid #FF1F1F;
+}
+
+h5{
+	padding: 500px;
+}
+
+h6{
+	font-family: 'Courier New';
+	font-size: 20px;
+	text-align: justify;
+	margin-bottom: 10px;
+	
+}
+
+h6:hover{
+	color: #27E900;
+}
+
+.gallery{
+	display: inline-flex;
+}
+
+.gallery img{
+	height: 300px;
+	width: 300px;
+
+}
+
+.gallery p{
+	font-size: 14.5px;
+	font-family: 'Courier New';
+	text-align: justify;
+	border: 2px solid #FF1F1F;
+	margin-left: 20px;
+	padding: 15px;
+}
+
+.gallery p:hover{
+	border: 2px solid #C256FF;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	color: #411FFF;
+}
+
+li{
+	display: inline;
+	padding-left: 12px;
+	padding-right: 12px;
+}
+
+li:hover{
+	color: #27E900;
+}
+
+a:link {
+	color: #411FFF;
+}
+
+
+a:visited {
+	color: #411FFF;
+}
+
+
+a:hover {
+	color: #FF9C1F;
+}
+
+
+a:active {
+	color: #FF1F1F;
+}
+
+
+
+

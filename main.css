@@ -68,7 +68,7 @@ h2:hover{
 }
 
 h3{
-	font-family: 'Old London';
+	font-family: 'OldLondon';
 	font-size: 120px;
 	text-align: center;
 	color: #FF1F1F;
@@ -161,6 +161,18 @@ a:hover {
 
 a:active {
 	color: #FF1F1F;
+}
+
+@font-face {
+  font-family: 'OldLondon';
+    src: url('fonts/OldLondon.eot'); /* IE9 Compat Modes */
+    src: url('fonts/OldLondon.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('fonts/OldLondon.woff2') format('woff2'), /* Super Modern Browsers */
+        url('fonts/OldLondon.woff') format('woff'), /* Pretty Modern Browsers */
+        url('fonts/OldLondon.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('fonts/OldLondon.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 400;
+    font-style: normal;
 }
 
 
